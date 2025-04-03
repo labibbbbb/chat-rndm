@@ -4,7 +4,7 @@
 	"CONTRIBUTE": "Untuk teman\" jika ingin berkontribusi untuk botnya\n\nseperti: \n- menambah fitur\n- lapor bug\n- dll\n\nbisa pull request atau buat issue di GitHub",
 	"PING": "Pongg 🏓",
 	"CREATE_ROOM": {
-		"SUCCESS_1": "🥰Teman chat ditemukan"
+		"SUCCESS_1": "🥰Teman chat ditemukan\n\n/next — ⏭️ cari teman baru\n/stop — ✋ berhenti dari chat \n\n@urfavchat_bot\n\nhttps://www.urfavchat.com"
 	},
 	"FIND": {
 		"WARNING_1": "🧐Kamu sedang berada di Antrian",
